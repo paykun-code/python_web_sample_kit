@@ -24,7 +24,7 @@ Note : Once you re-generate api key your old api key will stop working immediate
 # <h3>How to run app</h3>
     1. Extract downloaded zip
     2. From command line navigate to the mysite directory in extracted directory
-    3. Fire comman 'python manage.py runserver
+    3. Fire command 'python manage.py runserver
     4. Now open the given URL in Browser e.g 'http://127.0.0.1:8000/' and at the end of the url add 'payNow/'
     5. Now click on Paynow button and you would see Paykun checkout page
   
