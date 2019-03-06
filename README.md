@@ -10,10 +10,10 @@ If you have generated api key before then you will see the date of the api key g
 Note : Once you re-generate api key your old api key will stop working immediately. So be cautious while using this option.
 
 # <h3>Prerequisite</h3>
-    Merchant Id (Please read 'How To Generate Access token and API Secret :')
-    Access Token (Please read 'How To Generate Access token and API Secret :')
-    Encryption Key (Please read 'How To Generate Access token and API Secret :')
-    Python 3.6.0, Django 1.10
+    1. Merchant Id (You can find your Merchant id in your Paykun Admin panel after login)
+    2. Access Token (Please read 'How To Generate Access token and API Secret :')
+    3. Encryption Key (Please read 'How To Generate Access token and API Secret :')
+    4. Python 3.6.0, Django 1.10
 
 # <h3>Set all the required credentials</h3>
     1. From the extracted zip open the file 'paykunCheckout/views.py'
